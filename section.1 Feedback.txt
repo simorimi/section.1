@@ -1,0 +1,39 @@
+HTTPS(HyperText Transfer Protocol Secure)
+- client 와 sever 사이에 이루어지는 request/response protocol
+- The 'language' client and server speak
+- 이러한 통신이 HTTP이고 이것을 암호화한게 HTTPS
+
+Front-end(Client) 
+
+Back-end(Server)
+
+HTML(HyeperText Markup Language)
+- The content and structure of the displayed page
+
+CSS(Cascading Style Sheets)
+- The styling of the displayed page and its content
+
+JavaScript
+- Interactivity that might be needd on the displayed page
+
+URL
+https://academind.com/tutorials
+-'academind.com' 
+└ Domain: The human-readable address('identifier') of a website
+-'tutorials'
+└ Path: A 'pointer'(on a given website) to a specific resource
+
+IP(Internet Protocol)
+- A unique identifier('address') of network devices
+
+		DNS(Domain Name System)
+		Request
+Client → Domain		Ip Address →  Server
+		Response
+
+Your computer typically does not allow incoming external traffic from other users
+To host a website, appropriate 'Entry Points'(Ports) must be opened in the network & your computer must be configured as a web server
+└ 웹사이트를 서비스하는 서버는 트래픽을 들어오도록 구성하지만 일반적인 기기의 경우 트래픽을 허용하지 않는다.
+
+www(World Wide Wep)
+- 루트 도메인을 의미 www를 생략하는 경우는 하위 도메인으로 등록한 것이고 이는 기본 웹사이트를 가리키도록 구성한다.
